@@ -1,0 +1,29 @@
+Bolo 1.2.2
+New Bootstrap 4.5
+New typography
+CSS improvements
+
+Bolo 1.2.1
+New added: Onepage 10 (index-onepage-10.html)
+New added: project carousel
+
+Bolo 1.2
+New added: Homepage holiday
+New added: snow effect
+New added: audio background
+New added: violet-blue color scheme
+
+Bolo 1.1.3
+New added: Homepage business
+
+Bolo 1.1.2
+Fixes for contact form not sent
+
+Bolo 1.1
+New added: Bolo multipages (6 pages)
+New added: megamenu
+New added: video click element
+
+Bolo 1.0
+New added: Bolo landing creative (index-8.html)
+Major improvements css and js for mobile
