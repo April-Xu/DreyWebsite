@@ -3088,7 +3088,7 @@ span.teaser {
 
 .feature-box-style-1 .info {
 	display:table;
-    color: #ffffff;
+    color: #000000;
     position: absolute;
     width: 100%;
 	height:100%;
@@ -3102,7 +3102,7 @@ span.teaser {
 	vertical-align:middle;
 }
 
-.feature-box-style-1 i {
+.feature-box-style-1 img {
     text-shadow: none;
     width: 68px;
     height: 68px;
@@ -5206,7 +5206,7 @@ a.btn-right {
 }
 
 .pb150 {
-    padding-bottome: 150px;
+    padding-bottom: 150px;
 }
 
 .pl130 {
@@ -6782,7 +6782,7 @@ body {
   display: block;
   width: 80px;
   height: 80px;
-  background: #ba1f24;
+  background: #EBF1F5;
   border-radius: 50%;
   animation: pulse-border 1500ms ease-out infinite;
 }
@@ -6797,13 +6797,13 @@ body {
   display: block;
   width: 80px;
   height: 80px;
-  background: #eb3349;
+  background: #BBCDD8;
   border-radius: 50%;
   transition: all 200ms;
 }
 
 .video-play-button:hover:after {
-  background-color: darken(#eb3349, 10%);
+  background-color: darken(#BBCDD8, 10%);
 }
 
 .video-play-button img {
@@ -7728,6 +7728,7 @@ section.bg-grey {
 }
 
 #back-to-top {
+    background: #BBCDD8 !important;
     position: fixed;
     bottom: -40px;
     right: 30px;
@@ -9902,39 +9903,32 @@ img {
     line-height: initial;
 }
 
-.dreyH1 {
-    font-family: "Open Sans";
+.dreyHeading {
+    font-family: "Avenir Next";
     font-size: 28px;
     margin-bottom: 40px;
     line-height: initial;
 }
 
-.dreyH2 {
-    font-family: "Open Sans";
-    font-size: 24px;
-    margin-bottom: 40px;
-    line-height: initial;
-}
-
 .dreyBody {
-    font-family: "Open Sans";
+    font-family: "Avenir Next";
     font-size: 16px;
     margin-bottom: 20px;
     line-height: initial;
 }
 
 .dreyBold {
-    font-family: "Open Sans";
+    font-family: "Avenir Next";
     font-weight: 700;
     font-size: 16px;
     margin-bottom: 20px;
     line-height: initial;
 }
 
-.dreySmallBold {
-    font-family: "Open Sans";
+.dreyHeadingBold {
+    font-family: "Avenir Next";
     font-weight: 700;
-    font-size: 12px;
+    font-size: 24px;
     margin-bottom: 20px;
     line-height: initial;
 }
@@ -9947,7 +9941,7 @@ img {
     background-size: 100% 100%;
     margin: 0 auto;
     background: url("../images/3.1.png");
-    transition: .5s;
+    transition: .2s;
 }
 
 .teampic::after {
@@ -9959,4 +9953,130 @@ img {
 
 .teampic:hover {
     background: url("../images/3.2.png");
+}
+
+.dreyWrapper {
+    width: 830px;
+}
+
+.dreyContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.featureIntro {
+    padding-top: 12%;
+}
+
+#section-expert .owl-carousel .owl-item img{
+    display: block;
+    height: 450px;
+    width: auto;
+}
+
+#section-expert .owl-carousel.owl-drag .owl-item{
+    width: unset !important;
+    margin-right: 100px !important;
+}
+
+#section-teacher .owl-carousel .owl-item img {
+    display: block;
+    height: 550px;
+    width: auto;
+}
+
+#section-teacher .owl-carousel.owl-drag .owl-item {
+    width: unset !important;
+    margin-right: 30px !important;
+}
+
+#section-challenges .feature-box-style-1 .info {
+    background: linear-gradient(to right, #EBF1F5, #EBEFF5) !important;
+}
+
+#section-challenges .feature-box-style-1 {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+#section-challenges .feature-box-style-1 .info{
+    left: 0;
+}
+
+#section-challenges .feature-box-style-1 .dreyBody {
+    display:table-cell;
+    vertical-align:middle;
+}
+
+#section-solution .dreyWrapper {
+    text-align: center;
+}
+
+.solutionpic {
+    width: 150px;
+}
+
+.prototypeFeature {
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+
+.prototypeWrapper {
+    width: 600px;
+}
+
+.prototypeWrapper .dreyBold,
+.prototypeWrapper .dreyBody {
+    padding-left: 25px;
+}
+
+.grayrect {
+    width: 8px;
+    height: 8px;
+    background: #c4c4c4;
+    position: relative;
+    top: 15px;
+}
+
+.featurepic {
+    background-size: 100% 100%;
+    margin: 0 auto;
+    /*background: url("../images/3.1.png");*/
+    transition: .5s;
+}
+
+.featurepic::after {
+    content: "";
+    display: block;
+    /* this padding equals height/width of the image */
+    /*padding-bottom: 44%;*/
+}
+
+.featurepic:hover {
+    /*background: url("../images/3.2.png");*/
+}
+
+.quote {
+    padding: 50px 120px 50px 120px;
+    background: #f7f7f8;
+
+}
+
+.quote .col-lg-4 {
+    padding: 0 40px 0 40px;
+    margin-bottom: 0 !important;
+}
+
+.quote .quotation .dreyBody {
+    font-size: 38px;
+}
+
+.quote .text {
+    position: relative;
+    top: -20px;
+}
+
+.quote .text .col-lg-4 {
+    padding-left: 80px;
 }

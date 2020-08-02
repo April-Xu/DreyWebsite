@@ -303,6 +303,60 @@
 			}
          });
 
+        jQuery("#research-carousel").owlCarousel({
+            center: true,
+            items:2,
+            loop:true,
+            margin:100,
+            responsive:{
+                1000:{
+                    items:2
+                },
+                600:{
+                    items:2
+                },
+                0:{
+                    items:1
+                }
+            }
+        });
+
+        jQuery("#expert-carousel").owlCarousel({
+            center: true,
+            items:2,
+            loop:true,
+            margin:100,
+            responsive:{
+                1000:{
+                    items:2
+                },
+                600:{
+                    items:2
+                },
+                0:{
+                    items:1
+                }
+            }
+        });
+
+        jQuery("#teacher-carousel").owlCarousel({
+            center: true,
+            items:2,
+            loop:true,
+            margin:100,
+            responsive:{
+                1000:{
+                    items:2
+                },
+                600:{
+                    items:2
+                },
+                0:{
+                    items:1
+                }
+            }
+        });
+
 		jQuery(".text-slider").owlCarousel({
 			items: 1,
 			singleItem: true,
