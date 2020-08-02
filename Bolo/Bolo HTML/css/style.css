@@ -94,7 +94,7 @@ body {
     line-height: 1.8em;
     padding: 0;
     display: none;
-    color: #7e7e7e;
+    color: #000000;
 }
 
 body.boxed {
@@ -903,7 +903,7 @@ header.header-mobile.header-light #menu-btn {
 /* ================================================== */
 
 section {
-    padding: 100px 0 100px 0;
+    padding: 150px 0 0 0;
     overflow: hidden;
     position: relative;
 	background:#ffffff;
@@ -5205,6 +5205,10 @@ a.btn-right {
     padding-bottom: 100px;
 }
 
+.pb150 {
+    padding-bottome: 150px;
+}
+
 .pl130 {
     padding-left: 130px;
 }
@@ -7775,7 +7779,7 @@ section.bg-grey {
     left: 50%;
     margin-left: -12px;
     border-radius: 15px;
-    border: 1px solid #fff;
+    border: 1px solid #8292E6;
     -webkit-animation: intro 1s;
     animation: intro 1s;
 }
@@ -7786,7 +7790,7 @@ section.bg-grey {
     height: 3px;
     margin: 6px auto;
     border-radius: 4px;
-    background: #fff;
+    background: #8292E6;
     -webkit-animation: finger 1s infinite;
     animation: finger 1s infinite;
 }
@@ -9884,4 +9888,75 @@ img {
 
 #ifrm {
     display: none
+}
+
+
+/* --------------------------------------------------
+	custom styles for drey website
+	/* -------------------------------------------------- */
+
+.dreyTitle {
+    font-family: "EB Garamond";
+    font-size: 36px;
+    margin-bottom: 80px;
+    line-height: initial;
+}
+
+.dreyH1 {
+    font-family: "Open Sans";
+    font-size: 28px;
+    margin-bottom: 40px;
+    line-height: initial;
+}
+
+.dreyH2 {
+    font-family: "Open Sans";
+    font-size: 24px;
+    margin-bottom: 40px;
+    line-height: initial;
+}
+
+.dreyBody {
+    font-family: "Open Sans";
+    font-size: 16px;
+    margin-bottom: 20px;
+    line-height: initial;
+}
+
+.dreyBold {
+    font-family: "Open Sans";
+    font-weight: 700;
+    font-size: 16px;
+    margin-bottom: 20px;
+    line-height: initial;
+}
+
+.dreySmallBold {
+    font-family: "Open Sans";
+    font-weight: 700;
+    font-size: 12px;
+    margin-bottom: 20px;
+    line-height: initial;
+}
+
+.fullWidth {
+    width: 100%;
+}
+
+.teampic {
+    background-size: 100% 100%;
+    margin: 0 auto;
+    background: url("../images/3.1.png");
+    transition: .5s;
+}
+
+.teampic::after {
+    content: "";
+    display: block;
+    /* this padding equals height/width of the image */
+    padding-bottom: 44%;
+}
+
+.teampic:hover {
+    background: url("../images/3.2.png");
 }
