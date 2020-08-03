@@ -1,7 +1,14 @@
 /* --------------------------------------------------
  * © Copyright 2019 - Bolo by Designesia
  * --------------------------------------------------*/
-(function($) {	
+(function($) {
+    scrollToView = function(destination) {
+        document.getElementById(destination).scrollIntoView({
+            block: 'start',
+            inline: 'nearest',
+            behavior: 'smooth'
+        })
+    }
 	'use strict';
 	
 	/* --------------------------------------------------
@@ -78,6 +85,37 @@
 			vscroll = 0;
 		}
 	}
+    /*====================================
+            side navigation
+        ======================================*/
+    var sidebar = $('.side-nav');
+    $(window).on('scroll', function () {
+        if ($(window).scrollTop() > 300) {
+            sidebar.addClass('show');
+            sidebar.fadeIn();
+            if ($(window).scrollTop() === $(document).height()-$(window).height() ) {
+                sidebar.removeClass('show');
+            } else {
+                sidebar.addClass('show');
+                sidebar.fadeIn();
+            }
+        } else {
+            sidebar.removeClass('show');
+            sidebar.fadeOut();
+        }
+        // Assign active class to nav links while scolling
+        $('.section-locate').each(function(i) {
+            var rect = this.getBoundingClientRect();
+            var viewHeight = Math.max(document.documentElement.clientHeight, window.innerHeight);
+            if (!(rect.bottom < 0 || rect.top - viewHeight >= 0)) {
+                $('.side-nav .navlink').removeClass('nav-active');
+                $('.side-nav .navlink .dot').removeClass('dot-active');
+                //console.log(i);
+                $('.side-nav .navlink').eq(i).addClass('nav-active');
+                $('.side-nav .navlink .dot').eq(i).addClass('dot-active');
+            }
+        })
+    });
 	/* --------------------------------------------------
 	 * plugin | magnificPopup
 	 * --------------------------------------------------*/

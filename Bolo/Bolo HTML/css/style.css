@@ -10004,7 +10004,7 @@ img {
 }
 
 #section-challenges .feature-box-style-1 .info {
-    background: linear-gradient(to left, #356C8D, #BBCDD8) !important;
+    background: linear-gradient(255.54deg, #356C8D 6.33%, #BBCDD8 165.98%), #C4C4C4 !important;
     color: #ffffff;
 }
 
@@ -10113,4 +10113,48 @@ img {
     color: #ffffff;
     padding: 150px 0 110px 0;
     margin-top: 150px;
+}
+
+.side-nav {
+    position: fixed;
+    background: rgba(0, 0, 0, 0.03);
+    padding: 50px;
+    border-radius: 8%;
+    bottom: 20%;
+    left: 0;
+    text-align: left;
+    font-family: "Avenir Next";
+    font-weight: 300;
+    line-height: 2.5;
+    font-size: 16px;
+    display: none;
+}
+
+.side-nav .navlink:hover {
+    background: linear-gradient(255.54deg, #356C8D 6.33%, #BBCDD8 165.98%), #C4C4C4;
+    color: #fff;
+    cursor: pointer;
+}
+
+.side-nav > p::before {
+    margin: 0;
+}
+
+.nav-active {
+    font-weight: 600;
+}
+
+.dot-active {
+    visibility: visible !important;
+}
+
+.dot {
+    background: #FFD037;
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    position: relative;
+    top: 23px;
+    left: -25px;
+    visibility: hidden;
 }
