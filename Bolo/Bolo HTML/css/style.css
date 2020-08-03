@@ -9931,7 +9931,7 @@ img {
     font-family: "Avenir Next";
     font-weight: 600;
     font-size: 24px;
-    margin-bottom: 20px;
+    margin-bottom: 60px;
     line-height: initial;
 }
 
@@ -10004,7 +10004,8 @@ img {
 }
 
 #section-challenges .feature-box-style-1 .info {
-    background: linear-gradient(to right, #EBF1F5, #EBEFF5) !important;
+    background: linear-gradient(to left, #356C8D, #BBCDD8) !important;
+    color: #ffffff;
 }
 
 #section-challenges .feature-box-style-1 {
@@ -10053,21 +10054,22 @@ img {
 }
 
 .featurepic {
+    margin: 50px 0 50px 0;
     background-size: 100% 100%;
     margin: 0 auto;
-    /*background: url("../images/3.1.png");*/
-    transition: .5s;
+    background: url("../images/14.1.png");
+    transition: .2s;
 }
 
 .featurepic::after {
     content: "";
     display: block;
     /* this padding equals height/width of the image */
-    /*padding-bottom: 44%;*/
+    padding-bottom: 112%;
 }
 
 .featurepic:hover {
-    /*background: url("../images/3.2.png");*/
+    background: url("../images/14.2.png");
 }
 
 .quote {
@@ -10104,4 +10106,11 @@ img {
 
 #section-iteration7 .dreyBody {
     padding: 120px 0 0 100px;
+}
+
+.blackbg {
+    background-color: #333333;
+    color: #ffffff;
+    padding: 150px 0 110px 0;
+    margin-top: 150px;
 }
