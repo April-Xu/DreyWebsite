@@ -903,7 +903,7 @@ header.header-mobile.header-light #menu-btn {
 /* ================================================== */
 
 section {
-    padding: 150px 0 0 0;
+    padding: 225px 0 0 0;
     overflow: hidden;
     position: relative;
 	background:#ffffff;
@@ -9905,29 +9905,31 @@ img {
 
 .dreyHeading {
     font-family: "Avenir Next";
-    font-size: 28px;
-    margin-bottom: 40px;
+    font-weight: 300;
+    font-size: 24px;
+    margin-bottom: 60px;
     line-height: initial;
 }
 
 .dreyBody {
     font-family: "Avenir Next";
+    font-weight: 300;
     font-size: 16px;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
     line-height: initial;
 }
 
 .dreyBold {
     font-family: "Avenir Next";
-    font-weight: 700;
+    font-weight: 600;
     font-size: 16px;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
     line-height: initial;
 }
 
 .dreyHeadingBold {
     font-family: "Avenir Next";
-    font-weight: 700;
+    font-weight: 600;
     font-size: 24px;
     margin-bottom: 20px;
     line-height: initial;
@@ -9968,6 +9970,17 @@ img {
     padding-top: 12%;
 }
 
+#section-research .owl-carousel .owl-item img{
+    display: block;
+    height: 510px;
+    width: auto;
+}
+
+#section-research .owl-carousel.owl-drag .owl-item{
+    width: unset !important;
+    margin-right: 10px !important;
+}
+
 #section-expert .owl-carousel .owl-item img{
     display: block;
     height: 450px;
@@ -9979,13 +9992,13 @@ img {
     margin-right: 100px !important;
 }
 
-#section-teacher .owl-carousel .owl-item img {
+#section-user .owl-carousel .owl-item img {
     display: block;
     height: 550px;
     width: auto;
 }
 
-#section-teacher .owl-carousel.owl-drag .owl-item {
+#section-user .owl-carousel.owl-drag .owl-item {
     width: unset !important;
     margin-right: 30px !important;
 }
@@ -10079,4 +10092,16 @@ img {
 
 .quote .text .col-lg-4 {
     padding-left: 80px;
+}
+
+.customizemb {
+    margin-bottom: 225px;
+}
+
+.customizepb {
+    padding-bottom: 225px;
+}
+
+#section-iteration7 .dreyBody {
+    padding: 120px 0 0 100px;
 }

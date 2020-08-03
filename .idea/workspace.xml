@@ -2,20 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a2047c1-7c24-4e77-b531-162f186c5ba9" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Bolo/Bolo HTML/images/14.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bolo/Bolo HTML/images/10.png" afterPath="$PROJECT_DIR$/Bolo/Bolo HTML/images/10.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bolo/Bolo HTML/images/13.png" afterPath="$PROJECT_DIR$/Bolo/Bolo HTML/images/13.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bolo/Bolo HTML/images/3.2.png" afterPath="$PROJECT_DIR$/Bolo/Bolo HTML/images/3.2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bolo/Bolo HTML/images/4.png" afterPath="$PROJECT_DIR$/Bolo/Bolo HTML/images/4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bolo/Bolo HTML/images/5.png" afterPath="$PROJECT_DIR$/Bolo/Bolo HTML/images/5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bolo/Bolo HTML/images/6.2.png" afterPath="$PROJECT_DIR$/Bolo/Bolo HTML/images/6.2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bolo/Bolo HTML/images/7.png" afterPath="$PROJECT_DIR$/Bolo/Bolo HTML/images/7.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bolo/Bolo HTML/images/8.1.png" afterPath="$PROJECT_DIR$/Bolo/Bolo HTML/images/8.1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bolo/Bolo HTML/images/9.png" afterPath="$PROJECT_DIR$/Bolo/Bolo HTML/images/9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bolo/Bolo HTML/images/16.png" afterPath="$PROJECT_DIR$/Bolo/Bolo HTML/images/16.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bolo/Bolo HTML/images/17.png" afterPath="$PROJECT_DIR$/Bolo/Bolo HTML/images/17.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bolo/Bolo HTML/images/20.png" afterPath="$PROJECT_DIR$/Bolo/Bolo HTML/images/20.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bolo/Bolo HTML/1drey.html" afterPath="$PROJECT_DIR$/Bolo/Bolo HTML/1drey.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bolo/Bolo HTML/css/style.css" afterPath="$PROJECT_DIR$/Bolo/Bolo HTML/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bolo/Bolo HTML/js/designesia.js" afterPath="$PROJECT_DIR$/Bolo/Bolo HTML/js/designesia.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -44,8 +37,8 @@
       <file leaf-file-name="1drey.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Bolo/Bolo HTML/1drey.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
-              <caret line="501" column="52" lean-forward="false" selection-start-line="501" selection-start-column="52" selection-end-line="501" selection-end-column="52" />
+            <state relative-caret-position="415">
+              <caret line="673" column="0" lean-forward="true" selection-start-line="673" selection-start-column="0" selection-end-line="673" selection-end-column="0" />
               <folding>
                 <element signature="n#div#1;n#section#10;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#1;n#section#11;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -59,8 +52,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Bolo/Bolo HTML/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="9943" column="18" lean-forward="false" selection-start-line="9943" selection-start-column="18" selection-end-line="9943" selection-end-column="18" />
+            <state relative-caret-position="713">
+              <caret line="10105" column="15" lean-forward="false" selection-start-line="10105" selection-start-column="15" selection-end-line="10105" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -69,8 +62,8 @@
       <file leaf-file-name="designesia.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Bolo/Bolo HTML/js/designesia.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="320" column="13" lean-forward="false" selection-start-line="320" selection-start-column="13" selection-end-line="320" selection-end-column="13" />
+            <state relative-caret-position="221">
+              <caret line="315" column="27" lean-forward="false" selection-start-line="315" selection-start-column="27" selection-end-line="315" selection-end-column="27" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -89,18 +82,12 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>img</find>
-      <find>hover</find>
-      <find>section</find>
-      <find>mb</find>
-      <find>background</find>
       <find>creative</find>
       <find>latest</find>
       <find>back-to-top</find>
       <find>play-video</find>
       <find>mute</find>
       <find>popup</find>
-      <find>video</find>
       <find>play-</find>
       <find>top</find>
       <find>popup-youtube</find>
@@ -115,10 +102,16 @@
       <find>.feature-box-style-1</find>
       <find>mt</find>
       <find>150</find>
-      <find>-carousel</find>
       <find>solution</find>
       <find>fafafa</find>
       <find>.pl</find>
+      <find>teacher</find>
+      <find>50</find>
+      <find>video</find>
+      <find>-carousel</find>
+      <find>section</find>
+      <find>research</find>
+      <find>.pt</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -236,12 +229,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596310678825</updated>
-      <workItem from="1596310680190" duration="25186000" />
+      <workItem from="1596310680190" duration="29743000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25186000" />
+    <option name="totallyTimeSpent" value="29743000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -341,7 +334,7 @@
         <state relative-caret-position="158">
           <caret line="7" column="1238" lean-forward="false" selection-start-line="7" selection-start-column="1234" selection-end-line="7" selection-end-column="1238" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -408,8 +401,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Bolo/Bolo HTML/js/designesia.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="320" column="13" lean-forward="false" selection-start-line="320" selection-start-column="13" selection-end-line="320" selection-end-column="13" />
+        <state relative-caret-position="221">
+          <caret line="315" column="27" lean-forward="false" selection-start-line="315" selection-start-column="27" selection-end-line="315" selection-end-column="27" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -418,16 +411,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Bolo/Bolo HTML/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="9943" column="18" lean-forward="false" selection-start-line="9943" selection-start-column="18" selection-end-line="9943" selection-end-column="18" />
+        <state relative-caret-position="713">
+          <caret line="10105" column="15" lean-forward="false" selection-start-line="10105" selection-start-column="15" selection-end-line="10105" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Bolo/Bolo HTML/1drey.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="501" column="52" lean-forward="false" selection-start-line="501" selection-start-column="52" selection-end-line="501" selection-end-column="52" />
+        <state relative-caret-position="415">
+          <caret line="673" column="0" lean-forward="true" selection-start-line="673" selection-start-column="0" selection-end-line="673" selection-end-column="0" />
           <folding>
             <element signature="n#div#1;n#section#10;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#section#11;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
