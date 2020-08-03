@@ -5,7 +5,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bolo/Bolo HTML/1drey.html" afterPath="$PROJECT_DIR$/Bolo/Bolo HTML/1drey.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bolo/Bolo HTML/css/style.css" afterPath="$PROJECT_DIR$/Bolo/Bolo HTML/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bolo/Bolo HTML/js/designesia.js" afterPath="$PROJECT_DIR$/Bolo/Bolo HTML/js/designesia.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,7 +21,7 @@
       <file leaf-file-name="index-onepage-10.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Bolo/Bolo HTML/index-onepage-10.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
+            <state relative-caret-position="5400">
               <caret line="540" column="22" lean-forward="false" selection-start-line="452" selection-start-column="12" selection-end-line="540" selection-end-column="22" />
               <folding>
                 <element signature="n#div#1;n#section#3;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -32,26 +31,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1drey.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="1drey.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Bolo/Bolo HTML/1drey.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="53">
-              <caret line="681" column="14" lean-forward="true" selection-start-line="681" selection-start-column="14" selection-end-line="681" selection-end-column="14" />
+            <state relative-caret-position="315">
+              <caret line="658" column="37" lean-forward="true" selection-start-line="658" selection-start-column="37" selection-end-line="658" selection-end-column="37" />
               <folding>
-                <element signature="n#section#4;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#section#10;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#section#11;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#2;n#section#13;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <marker date="1596475177320" expanded="true" signature="10646:10718" ph="..." />
+                <marker date="1596475177320" expanded="true" signature="10936:11008" ph="..." />
+                <marker date="1596475177320" expanded="true" signature="11230:11302" ph="..." />
+                <marker date="1596475177320" expanded="true" signature="12469:12541" ph="..." />
+                <marker date="1596475177320" expanded="true" signature="12759:12831" ph="..." />
+                <marker date="1596475177320" expanded="true" signature="13053:13125" ph="..." />
+                <marker date="1596475177320" expanded="true" signature="18175:18248" ph="..." />
+                <marker date="1596475177320" expanded="true" signature="18466:18539" ph="..." />
+                <marker date="1596475177320" expanded="true" signature="18761:18834" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Bolo/Bolo HTML/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="10008" column="1" lean-forward="true" selection-start-line="10008" selection-start-column="1" selection-end-line="10008" selection-end-column="1" />
+            <state relative-caret-position="428">
+              <caret line="10074" column="8" lean-forward="true" selection-start-line="10074" selection-start-column="8" selection-end-line="10074" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -60,8 +64,8 @@
       <file leaf-file-name="designesia.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Bolo/Bolo HTML/js/designesia.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            <state relative-caret-position="21825">
+              <caret line="1457" column="21" lean-forward="false" selection-start-line="1457" selection-start-column="21" selection-end-line="1457" selection-end-column="21" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -80,13 +84,8 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>play-</find>
-      <find>top</find>
-      <find>popup-youtube</find>
       <find>pb</find>
-      <find>pf-click</find>
       <find>project-carou</find>
-      <find>carousel</find>
       <find>#project-carou</find>
       <find>icon-</find>
       <find>front</find>
@@ -102,14 +101,19 @@
       <find>section</find>
       <find>research</find>
       <find>.pt</find>
-      <find>video</find>
       <find>feature</find>
       <find>reframe</find>
       <find>solution</find>
       <find>featurepic</find>
       <find>rgb</find>
-      <find>linear</find>
       <find>challenges</find>
+      <find>linear</find>
+      <find>design process</find>
+      <find>video</find>
+      <find>mt0</find>
+      <find>carousel</find>
+      <find>pf-click</find>
+      <find>preloader</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -118,9 +122,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/Bolo/Bolo HTML/js/designesia.js" />
         <option value="$PROJECT_DIR$/Bolo/Bolo HTML/1drey.html" />
         <option value="$PROJECT_DIR$/Bolo/Bolo HTML/css/style.css" />
-        <option value="$PROJECT_DIR$/Bolo/Bolo HTML/js/designesia.js" />
       </list>
     </option>
   </component>
@@ -130,7 +134,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -150,6 +154,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -168,26 +174,10 @@
               <item name="Bolo" type="462c0819:PsiDirectoryNode" />
               <item name="Bolo HTML" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="DreyWebsite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DreyWebsite" type="462c0819:PsiDirectoryNode" />
-              <item name="Bolo" type="462c0819:PsiDirectoryNode" />
-              <item name="Bolo HTML" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DreyWebsite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DreyWebsite" type="462c0819:PsiDirectoryNode" />
-              <item name="Bolo" type="462c0819:PsiDirectoryNode" />
-              <item name="Bolo HTML" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -229,26 +219,26 @@
       <updated>1596310678825</updated>
       <workItem from="1596310680190" duration="29748000" />
       <workItem from="1596425676434" duration="1585000" />
-      <workItem from="1596470259836" duration="2978000" />
+      <workItem from="1596470259836" duration="4971000" />
+      <workItem from="1596476179056" duration="394000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34311000" />
+    <option name="totallyTimeSpent" value="36698000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16701902" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16701902" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -289,6 +279,53 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Bolo/Bolo HTML/index-onepage-10.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#1;n#section#3;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#4;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bolo/Bolo HTML/1drey.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9900">
+          <caret line="660" column="22" lean-forward="false" selection-start-line="660" selection-start-column="13" selection-end-line="660" selection-end-column="22" />
+          <folding>
+            <marker date="1596475177320" expanded="true" signature="10646:10718" ph="..." />
+            <marker date="1596475177320" expanded="true" signature="10936:11008" ph="..." />
+            <marker date="1596475177320" expanded="true" signature="11230:11302" ph="..." />
+            <marker date="1596475177320" expanded="true" signature="12469:12541" ph="..." />
+            <marker date="1596475177320" expanded="true" signature="12759:12831" ph="..." />
+            <marker date="1596475177320" expanded="true" signature="13053:13125" ph="..." />
+            <marker date="1596475177320" expanded="true" signature="18175:18248" ph="..." />
+            <marker date="1596475177320" expanded="true" signature="18466:18539" ph="..." />
+            <marker date="1596475177320" expanded="true" signature="18761:18834" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bolo/Bolo HTML/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150900">
+          <caret line="10060" column="0" lean-forward="false" selection-start-line="10060" selection-start-column="0" selection-end-line="10060" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bolo/Bolo HTML/js/designesia.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21855">
+          <caret line="1457" column="21" lean-forward="true" selection-start-line="1457" selection-start-column="21" selection-end-line="1457" selection-end-column="21" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bolo/Bolo HTML/index-onepage-10.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5400">
           <caret line="540" column="22" lean-forward="false" selection-start-line="452" selection-start-column="12" selection-end-line="540" selection-end-column="22" />
           <folding>
@@ -303,10 +340,15 @@
         <state relative-caret-position="7710">
           <caret line="514" column="60" lean-forward="false" selection-start-line="514" selection-start-column="60" selection-end-line="514" selection-end-column="60" />
           <folding>
-            <element signature="n#section#4;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#section#10;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#section#11;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#section#13;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <marker date="1596475177320" expanded="true" signature="10646:10718" ph="..." />
+            <marker date="1596475177320" expanded="true" signature="10936:11008" ph="..." />
+            <marker date="1596475177320" expanded="true" signature="11230:11302" ph="..." />
+            <marker date="1596475177320" expanded="true" signature="12469:12541" ph="..." />
+            <marker date="1596475177320" expanded="true" signature="12759:12831" ph="..." />
+            <marker date="1596475177320" expanded="true" signature="13053:13125" ph="..." />
+            <marker date="1596475177320" expanded="true" signature="18175:18248" ph="..." />
+            <marker date="1596475177320" expanded="true" signature="18466:18539" ph="..." />
+            <marker date="1596475177320" expanded="true" signature="18761:18834" ph="..." />
           </folding>
         </state>
       </provider>
@@ -363,10 +405,15 @@
         <state relative-caret-position="7905">
           <caret line="679" column="0" lean-forward="true" selection-start-line="679" selection-start-column="0" selection-end-line="679" selection-end-column="0" />
           <folding>
-            <element signature="n#section#4;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#section#10;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#section#11;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#section#13;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <marker date="1596475177320" expanded="true" signature="10646:10718" ph="..." />
+            <marker date="1596475177320" expanded="true" signature="10936:11008" ph="..." />
+            <marker date="1596475177320" expanded="true" signature="11230:11302" ph="..." />
+            <marker date="1596475177320" expanded="true" signature="12469:12541" ph="..." />
+            <marker date="1596475177320" expanded="true" signature="12759:12831" ph="..." />
+            <marker date="1596475177320" expanded="true" signature="13053:13125" ph="..." />
+            <marker date="1596475177320" expanded="true" signature="18175:18248" ph="..." />
+            <marker date="1596475177320" expanded="true" signature="18466:18539" ph="..." />
+            <marker date="1596475177320" expanded="true" signature="18761:18834" ph="..." />
           </folding>
         </state>
       </provider>
@@ -460,7 +507,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Bolo/Bolo HTML/index-onepage-10.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
+        <state relative-caret-position="5400">
           <caret line="540" column="22" lean-forward="false" selection-start-line="452" selection-start-column="12" selection-end-line="540" selection-end-column="22" />
           <folding>
             <element signature="n#div#1;n#section#3;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -469,23 +516,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Bolo/Bolo HTML/1drey.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53">
-          <caret line="681" column="14" lean-forward="true" selection-start-line="681" selection-start-column="14" selection-end-line="681" selection-end-column="14" />
-          <folding>
-            <element signature="n#section#4;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#section#10;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#section#11;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#section#13;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Bolo/Bolo HTML/js/designesia.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        <state relative-caret-position="21825">
+          <caret line="1457" column="21" lean-forward="false" selection-start-line="1457" selection-start-column="21" selection-end-line="1457" selection-end-column="21" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -494,9 +528,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Bolo/Bolo HTML/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="10008" column="1" lean-forward="true" selection-start-line="10008" selection-start-column="1" selection-end-line="10008" selection-end-column="1" />
+        <state relative-caret-position="428">
+          <caret line="10074" column="8" lean-forward="true" selection-start-line="10074" selection-start-column="8" selection-end-line="10074" selection-end-column="8" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bolo/Bolo HTML/1drey.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="658" column="37" lean-forward="true" selection-start-line="658" selection-start-column="37" selection-end-line="658" selection-end-column="37" />
+          <folding>
+            <marker date="1596475177320" expanded="true" signature="10646:10718" ph="..." />
+            <marker date="1596475177320" expanded="true" signature="10936:11008" ph="..." />
+            <marker date="1596475177320" expanded="true" signature="11230:11302" ph="..." />
+            <marker date="1596475177320" expanded="true" signature="12469:12541" ph="..." />
+            <marker date="1596475177320" expanded="true" signature="12759:12831" ph="..." />
+            <marker date="1596475177320" expanded="true" signature="13053:13125" ph="..." />
+            <marker date="1596475177320" expanded="true" signature="18175:18248" ph="..." />
+            <marker date="1596475177320" expanded="true" signature="18466:18539" ph="..." />
+            <marker date="1596475177320" expanded="true" signature="18761:18834" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

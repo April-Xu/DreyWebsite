@@ -4895,7 +4895,7 @@ a.btn-right {
 /* margin top */
 
 .mt0 {
-    margin-top: 0;
+    margin-top: 0 !important;
 }
 
 .mt10 {
@@ -10117,23 +10117,24 @@ img {
 
 .side-nav {
     position: fixed;
-    background: rgba(0, 0, 0, 0.03);
-    padding: 50px;
-    border-radius: 8%;
+    background: rgba(255, 255, 255, 0.45);
+    border-radius: 0 2% 2% 0;
     bottom: 20%;
     left: 0;
     text-align: left;
     font-family: "Avenir Next";
     font-weight: 300;
-    line-height: 2.5;
     font-size: 16px;
     display: none;
+    padding: 0;
+}
+
+.side-nav .navlink {
+    padding: 10px 50px 10px 50px;
 }
 
 .side-nav .navlink:hover {
-    background: linear-gradient(255.54deg, #356C8D 6.33%, #BBCDD8 165.98%), #C4C4C4;
-    color: #fff;
-    cursor: pointer;
+    background: #FFD037;
 }
 
 .side-nav > p::before {
@@ -10154,7 +10155,15 @@ img {
     height: 7px;
     border-radius: 50%;
     position: relative;
-    top: 23px;
+    top: 16px;
     left: -25px;
     visibility: hidden;
+}
+
+.owl-theme .owl-dots .owl-dot.active span {
+    background: #000000 !important;
+}
+
+.preloader1 {
+    border-top-color: #000000 !important;
 }
