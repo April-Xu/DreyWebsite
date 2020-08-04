@@ -10168,3 +10168,8 @@ img {
 .preloader1 {
     border-top-color: #000000 !important;
 }
+
+.highlight {
+    color: #356C8D;
+    font-weight: 600;
+}
