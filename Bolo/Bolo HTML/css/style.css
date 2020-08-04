@@ -7728,7 +7728,7 @@ section.bg-grey {
 }
 
 #back-to-top {
-    background: #BBCDD8 !important;
+    background: linear-gradient(255.54deg, #356C8D 6.33%, #BBCDD8 165.98%), #C4C4C4 !important;
     position: fixed;
     bottom: -40px;
     right: 30px;
@@ -10119,7 +10119,7 @@ img {
     position: fixed;
     background: rgba(255, 255, 255, 0.45);
     border-radius: 0 2% 2% 0;
-    bottom: 20%;
+    bottom: 25%;
     left: 0;
     text-align: left;
     font-family: "Avenir Next";
@@ -10135,6 +10135,7 @@ img {
 
 .side-nav .navlink:hover {
     background: #FFD037;
+    cursor: pointer;
 }
 
 .side-nav > p::before {
